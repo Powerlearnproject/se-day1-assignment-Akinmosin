@@ -37,8 +37,8 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-COMPARISON:
 
+COMPARISON:
 
 Waterfall Methodology
 
@@ -46,7 +46,7 @@ Waterfall Methodology
 - Predictive and plan-driven
 - Phases: Requirements, Design, Implementation, Testing, Deployment, Maintenance
 - Each phase completes before the next one begins
-- 
+  
 Agile Methodology
 - Iterative and incremental approach
 - Flexible and adaptive
@@ -156,6 +156,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 2. Integration Testing: Tests interactions between components.
 3. System Testing: Tests the entire software system.
 4. Acceptance Testing: Tests software to meet customer/end-user requirements.
+
 Importance:
 1. Ensures reliability and stability.
 2. Identifies defects early.
